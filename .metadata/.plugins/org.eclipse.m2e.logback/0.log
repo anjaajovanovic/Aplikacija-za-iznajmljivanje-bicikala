@@ -293,3 +293,11 @@
 2024-09-06 15:18:27,422 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\PC\git\zajednicki\zajednicki\src\test\resources
 2024-09-06 15:18:43,045 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\PC\git\zajednicki\zajednicki\src\main\resources
 2024-09-06 15:18:43,050 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\PC\git\zajednicki\zajednicki\src\test\resources
+2024-09-06 15:19:13,174 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\PC\git\zajednicki\zajednicki\src\main\resources
+2024-09-06 15:19:13,179 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\PC\git\zajednicki\zajednicki\src\test\resources
+2024-09-06 15:19:26,864 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\PC\git\zajednicki\zajednicki\src\main\resources
+2024-09-06 15:19:26,870 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\PC\git\zajednicki\zajednicki\src\test\resources
+2024-09-06 15:19:56,822 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\PC\git\zajednicki\zajednicki\src\main\resources
+2024-09-06 15:19:56,827 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\PC\git\zajednicki\zajednicki\src\test\resources
+2024-09-06 15:20:06,432 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\PC\git\zajednicki\zajednicki\src\main\resources
+2024-09-06 15:20:06,438 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\PC\git\zajednicki\zajednicki\src\test\resources
